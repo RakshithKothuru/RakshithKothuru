@@ -1,13 +1,15 @@
 # Hi 👋, I'm Rakshith Kothuru  
 
-🚀 Aspiring Design verification engineer with strong HDL/HVL and verification fundamentals, interested in SOC design and Micro Architecture. 
+🚀 Passionate about efficient computation through hardware design, with a keen interest in microarchitecture.
+
+Also a part time Gamer :)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RakshithKothuru&color=blue&style=flat)
 
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 Student in **Electronics and Communication Engineering at MNNIT Allahabad** with a passion for **SOC Design and Verification**
+- 🎓 **B-Tech** Student in **Electronics and Communication Engineering at MNNIT Allahabad** with a passion for **SOC Design and Verification**
 - 💡 Strong at **Verilog/SystemVerilog RTL coding, Microarchitecture design, IC Design, Timing Analysis** 
 - 🌱 Learning **ASIC, SystemVerilog and UVM**  
 - 🏗️ Projects: **32-bit 5-Stage Pipelined RISC-V Processor, Systolic Array Accelerator, Asynchronous FIFO, GCD Accelerator**    
