@@ -9,7 +9,7 @@ Also a part time Gamer :)
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 **B-Tech** Student in **Electronics and Communication Engineering at MNNIT Allahabad** with a passion for **SOC Design and Verification**
+- 🎓 **B-Tech** Student in **Electronics and Communication Engineering at MNNIT Allahabad**
 - 💡 Strong at **Verilog/SystemVerilog RTL coding, Microarchitecture design, IC Design, Timing Analysis** 
 - 🌱 Learning **ASIC, SystemVerilog and UVM**  
 - 🏗️ Projects: **32-bit 5-Stage Pipelined RISC-V Processor, Systolic Array Accelerator, Asynchronous FIFO, GCD Accelerator**    
