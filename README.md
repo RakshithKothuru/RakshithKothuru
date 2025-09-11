@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Learning **SystemVerilog, UVM, and Static Timing Analysis**  
+- 🌱 Learning **SystemVerilog, UVM**  
 - 🏗️ Projects: **32-bit 5-Stage Pipelined RISC-V Processor, Systolic Array Accelerator, Asynchronous FIFO, GCD Accelerator**  
 - 💡 Strong in **HDL/HVL, RTL Design, Verification Fundamentals**  
 - 💬 Ask me about **Verilog, SystemVerilog, RTL, STA, SoC Verification**  
