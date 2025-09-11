@@ -10,9 +10,9 @@ Also a part time Gamer :)
 
 ### 👨‍💻 About Me  
 - 🎓 **B-Tech** Student in **Electronics and Communication Engineering at MNNIT Allahabad**
-- 💡 Strong at **Verilog/SystemVerilog RTL coding, Microarchitecture design, IC Design, Timing Analysis** 
+- 💡 Strong at **Verilog RTL coding, Microarchitecture design, Timing Analysis** 
 - 🌱 Learning **ASIC, SystemVerilog and UVM**  
-- 🏗️ Projects: **32-bit 5-Stage Pipelined RISC-V Processor, Systolic Array Accelerator, Asynchronous FIFO, GCD Accelerator**    
+- 🏗️ Projects: **32-bit 5-Stage Pipelined RISC-V Processor, Systolic Array Accelerator, GCD Accelerator, Asynchronous FIFO**    
 - 📫 How to reach me: **rakshithkothuru@gmail.com**  
 
 ---
@@ -42,7 +42,11 @@ Also a part time Gamer :)
 ![GTKWave](https://img.shields.io/badge/GTKWave-Waveform_Viewer-green)  
 ![Proteus](https://img.shields.io/badge/Proteus-Digital_Circuit_Simulation-lightblue)  
 ![PSpice](https://img.shields.io/badge/PSpice-Analog_Circuit_Simulation-darkgreen)  
-  
+
+### 🎯 Skills  
+![Digital Design](https://img.shields.io/badge/Digital_Design-RTL_Coding_|_Microarchitecture_|_Low_Power_Design-blue)   
+![Timing Analysis](https://img.shields.io/badge/Timing_Analysis-STA_|_CDC-orange)  
+
 
 ---
 
