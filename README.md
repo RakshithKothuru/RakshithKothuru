@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rakshith Kothuru  
 
-🚀 Passionate about efficient computation through hardware design, with a keen interest in microarchitecture.
+🚀 Passionate about efficient computation through hardware design, with a keen interest in Microarchitecture.
 
 Also a part time Gamer :)
 
