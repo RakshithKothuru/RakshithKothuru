@@ -7,11 +7,10 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 Student in **Electronics and Communication Engineering at MNNIT Allahabad** with a passion for **SOC Design and Verification** 
+- 🎓 Student in **Electronics and Communication Engineering at MNNIT Allahabad** with a passion for **SOC Design and Verification**
+- 💡 Strong at **Verilog/SystemVerilog RTL coding, Microarchitecture design, IC Design, Timing Analysis** 
 - 🌱 Learning **ASIC, SystemVerilog and UVM**  
-- 🏗️ Projects: **32-bit 5-Stage Pipelined RISC-V Processor, Systolic Array Accelerator, Asynchronous FIFO, GCD Accelerator**  
-- 💡 Strong in **HDL/HVL, RTL Design, Verification Fundamentals**  
-- 💬 Ask me about **Verilog, SystemVerilog, RTL, STA, SoC Verification**  
+- 🏗️ Projects: **32-bit 5-Stage Pipelined RISC-V Processor, Systolic Array Accelerator, Asynchronous FIFO, GCD Accelerator**    
 - 📫 How to reach me: **rakshithkothuru@gmail.com**  
 
 ---
@@ -33,13 +32,15 @@
 ---
 
 ### 🛠️ Languages and Tools  
-![Verilog](https://img.shields.io/badge/Verilog-EDA-blue)  
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-RTL-red)  
+![Verilog](https://img.shields.io/badge/Verilog-RTL_Coding-blue)  
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Verification-red)  
 ![C](https://img.shields.io/badge/C-Language-blue)  
-![Vivado](https://img.shields.io/badge/Xilinx-Vivado-orange)  
-![GTKWave](https://img.shields.io/badge/GTKWave-Waveform-green)  
-![Proteus](https://img.shields.io/badge/Proteus-Simulation-lightblue)  
-![PSpice](https://img.shields.io/badge/PSpice-Circuit-darkgreen)  
+![Python](https://img.shields.io/badge/Python-Scripting-yellow)  
+![XilinxVivado](https://img.shields.io/badge/XilinxVivado-RTL_Simulation_&_Synthesis-orange)  
+![GTKWave](https://img.shields.io/badge/GTKWave-Waveform_Viewer-green)  
+![Proteus](https://img.shields.io/badge/Proteus-Digital_Circuit_Simulation-lightblue)  
+![PSpice](https://img.shields.io/badge/PSpice-Analog_Circuit_Simulation-darkgreen)  
+  
 
 ---
 
