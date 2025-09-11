@@ -7,7 +7,8 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Learning **SystemVerilog, UVM**  
+- 🎓 Student in **Electronics and Communication Engineering at MNNIT Allahabad** with a passion for **SOC Design and Verification** 
+- 🌱 Learning **ASIC, SystemVerilog and UVM**  
 - 🏗️ Projects: **32-bit 5-Stage Pipelined RISC-V Processor, Systolic Array Accelerator, Asynchronous FIFO, GCD Accelerator**  
 - 💡 Strong in **HDL/HVL, RTL Design, Verification Fundamentals**  
 - 💬 Ask me about **Verilog, SystemVerilog, RTL, STA, SoC Verification**  
