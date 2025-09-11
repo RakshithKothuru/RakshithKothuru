@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rakshith Kothuru  
 
-🚀 Aspiring Design Verification Engineer | RTL Design & Microarchitecture Enthusiast  
+🚀 Aspiring Design verification engineer with strong HDL/HVL skills and verification fundamentals, interested in SOC design and Micro architecture. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RakshithKothuru&color=blue&style=flat)
 
