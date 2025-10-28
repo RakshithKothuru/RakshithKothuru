@@ -36,7 +36,7 @@ Also a part time Gamer :)
 ### 🛠️ Languages and Tools  
 ![Verilog](https://img.shields.io/badge/Verilog-RTL_Coding-blue)  
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Verification-red)  
-![C](https://img.shields.io/badge/C-Language-blue)  
+![C\C++](https://img.shields.io/badge/C-Language-blue)  
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow)  
 ![XilinxVivado](https://img.shields.io/badge/XilinxVivado-RTL_Simulation_&_Synthesis-orange)  
 ![GTKWave](https://img.shields.io/badge/GTKWave-Waveform_Viewer-green)  
